@@ -73,7 +73,7 @@ Virtual Environment ช่วยให้เราสามารถแยกส
 
 เปิดเว็บเบราว์เซอร์ (เช่น Chrome, Firefox) แล้วเข้าไปที่ URL ต่อไปนี้:
 
-[**http://127.0.0.1:8007**] หรือ (http://<your ip address>:8007)
+[**http://127.0.0.1:8007**] หรือ (http://your_ip_address:8007)
 
 คุณจะเห็นหน้าจอ Monitor GPU แสดงข้อมูลแบบเรียลไทม์
 
